@@ -1,0 +1,14 @@
+C:\Users\SHAX\source\repos\NumeroMayorYMenor\NumeroMayorYMenor\bin\Debug\netcoreapp3.1\NumeroMayorYMenor.exe
+C:\Users\SHAX\source\repos\NumeroMayorYMenor\NumeroMayorYMenor\bin\Debug\netcoreapp3.1\NumeroMayorYMenor.deps.json
+C:\Users\SHAX\source\repos\NumeroMayorYMenor\NumeroMayorYMenor\bin\Debug\netcoreapp3.1\NumeroMayorYMenor.runtimeconfig.json
+C:\Users\SHAX\source\repos\NumeroMayorYMenor\NumeroMayorYMenor\bin\Debug\netcoreapp3.1\NumeroMayorYMenor.runtimeconfig.dev.json
+C:\Users\SHAX\source\repos\NumeroMayorYMenor\NumeroMayorYMenor\bin\Debug\netcoreapp3.1\NumeroMayorYMenor.dll
+C:\Users\SHAX\source\repos\NumeroMayorYMenor\NumeroMayorYMenor\bin\Debug\netcoreapp3.1\NumeroMayorYMenor.pdb
+C:\Users\SHAX\source\repos\NumeroMayorYMenor\NumeroMayorYMenor\obj\Debug\netcoreapp3.1\NumeroMayorYMenor.csproj.AssemblyReference.cache
+C:\Users\SHAX\source\repos\NumeroMayorYMenor\NumeroMayorYMenor\obj\Debug\netcoreapp3.1\NumeroMayorYMenor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHAX\source\repos\NumeroMayorYMenor\NumeroMayorYMenor\obj\Debug\netcoreapp3.1\NumeroMayorYMenor.AssemblyInfoInputs.cache
+C:\Users\SHAX\source\repos\NumeroMayorYMenor\NumeroMayorYMenor\obj\Debug\netcoreapp3.1\NumeroMayorYMenor.AssemblyInfo.cs
+C:\Users\SHAX\source\repos\NumeroMayorYMenor\NumeroMayorYMenor\obj\Debug\netcoreapp3.1\NumeroMayorYMenor.csproj.CoreCompileInputs.cache
+C:\Users\SHAX\source\repos\NumeroMayorYMenor\NumeroMayorYMenor\obj\Debug\netcoreapp3.1\NumeroMayorYMenor.dll
+C:\Users\SHAX\source\repos\NumeroMayorYMenor\NumeroMayorYMenor\obj\Debug\netcoreapp3.1\NumeroMayorYMenor.pdb
+C:\Users\SHAX\source\repos\NumeroMayorYMenor\NumeroMayorYMenor\obj\Debug\netcoreapp3.1\NumeroMayorYMenor.genruntimeconfig.cache
